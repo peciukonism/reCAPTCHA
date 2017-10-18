@@ -1,0 +1,18 @@
+{
+  "name": "recaptchanode",
+  "version": "1.0.0",
+  "description": "Form with reCAPTCHA functionality",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "peciukonism",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {}
+}
