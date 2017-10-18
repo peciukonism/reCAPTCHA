@@ -5,9 +5,7 @@ Simple Bootstrap form with reCAPTCHA functionality
 
 
 ## Installation
-Node.js is needed for this application
-Insert generated site key on line 25 in index.html
-Insert generated secret key on line 32 in server.js
+ Node.js is needed for this application. Insert generated site key on line 25 in index.html. Insert generated secret key on line 32 in server.js
 
 ### Install the dependencies
 
